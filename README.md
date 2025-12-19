@@ -29,5 +29,5 @@ To obtain the pivot table, first, I converted both worksheets into tables and th
 
 I created the Pivot Table showing a measure average freight for all countries and include the KPI icons for visually easy reading.   
 
-The work book is available at:  https://github.com/damayantinaik/Excel_Pivot_Tables_And_Charts_Along_With_KPI/blob/main/Pivot_Table_And_Chart_Showing_KPI_From_Multiple_Tables.xlsx
+The workbook is available at:  https://github.com/damayantinaik/Excel_Pivot_Tables_And_Charts_Along_With_KPI/blob/main/Pivot_Table_And_Chart_Showing_KPI_From_Multiple_Tables.xlsx
 
