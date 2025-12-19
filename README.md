@@ -24,7 +24,10 @@ To create the pivot table and pivot chart, I’ve a workbook with multiple works
 
 The Customer Info worksheet carries the records on customers whereas the Order Info worksheet lists order information records. 
 I need to summarize the data from both worksheets in a pivot table & chart. 
-To obtain the pivot table, first, I converted both worksheets into tables and then connected them by a common column Customer ID in a data model using Power Pivot. Here the Customer Table is the parent table and Order Info is the child table. 
+
+To obtain the pivot table, first, I converted both worksheets into tables and then connected them by a common column 'Customer ID' in a data model using Power Pivot. Here the Customer Info Table is the parent table and Order Info is the child table. 
+
 I created the Pivot Table showing a measure average freight for all countries and include the KPI icons for visually easy reading.   
+
 The work book is available at:  https://github.com/damayantinaik/Excel_Pivot_Tables_And_Charts_Along_With_KPI/blob/main/Pivot_Table_And_Chart_Showing_KPI_From_Multiple_Tables.xlsx
 
