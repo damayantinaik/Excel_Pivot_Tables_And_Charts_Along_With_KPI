@@ -17,7 +17,7 @@ If pivot table data changes, pivot chart data also changes. So, if we update piv
 
 I added multiple filters and slicers to the Pivot tables and charts. 
 
-Find the workbook at:  https://github.com/damayantinaik/Excel_Pivot_Tables_And_Charts_Along_With_KPI/blob/main/Pivot_Tables_And_Pivot_Charts_With_Data_From_Single_Table.xlsx
+Find the workbook at: [Pivot tables and charts from a single data table](https://github.com/damayantinaik/Excel_Pivot_Tables_And_Charts_Along_With_KPI/blob/main/Pivot_Tables_And_Pivot_Charts_With_Data_From_Single_Table.xlsx)
 
 ## Case: Pivot Table from multiple data tables connected in a Data Model
 To create the pivot table and pivot chart, I’ve a workbook with multiple worksheets, but I am going to work on two worksheets only named Customer Info and Order info. 
@@ -29,5 +29,5 @@ To obtain the pivot table, first, I converted both worksheets into tables and th
 
 I created the Pivot Table showing a measure average freight for all countries and include the KPI icons for visually easy reading.   
 
-The workbook is available at:  https://github.com/damayantinaik/Excel_Pivot_Tables_And_Charts_Along_With_KPI/blob/main/Pivot_Table_And_Chart_Showing_KPI_From_Multiple_Tables.xlsx
+The workbook is available at: [Pivot table and chart with KPI from multiple data tables] (https://github.com/damayantinaik/Excel_Pivot_Tables_And_Charts_Along_With_KPI/blob/main/Pivot_Table_And_Chart_Showing_KPI_From_Multiple_Tables.xlsx)
 
